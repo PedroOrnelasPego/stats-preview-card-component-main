@@ -1,6 +1,9 @@
 
 # Frontend Mentor - Stats preview card component
 
+### Solução
+https://pedroornelaspego.github.io/stats-preview-card-component-main/
+<hr>
 
 ### Apresentação
 
